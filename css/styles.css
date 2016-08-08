@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+#container {
+	background-color: #A9A9A9;
+	margin-bottom: 15px;
+}
+div.Title {
+	font-weight: bold;
+	font-size: 16px;
+	padding: 5px;
+}
+
+.navbar-brand h1{ 
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 10px;
+  line-height: .75;
+}
